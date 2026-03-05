@@ -12,8 +12,3 @@ Aquest projecte és la implementació d'una **Service Layer** amb Mongoose i Typ
 
 ---
 **Marc**
-
-Ejecutar JS
-```
-node dist/mongoogse.js
-```
