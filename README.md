@@ -11,4 +11,4 @@ Aquest projecte és la implementació d'una **Service Layer** amb Mongoose i Typ
 > **Nota**: He fet servir IA únicament per arreglar els errors de tipat de TypeScript, solucionar els problemes amb les extensions dels mòduls de Node.js (ESM) i per ajudar-me a gestionar i presentar millor l'estructura del codi.
 
 ---
-**Marc**
+**Marc**  Link del video: https://www.youtube.com/watch?v=vpVGK0tKdzw
